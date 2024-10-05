@@ -1,0 +1,15 @@
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\bin\Debug\net8.0\QLBH.Business.deps.json
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\bin\Debug\net8.0\QLBH.Business.dll
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\bin\Debug\net8.0\QLBH.Business.pdb
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\bin\Debug\net8.0\QLBH.DataBase.dll
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\bin\Debug\net8.0\QLBH.DataBase.pdb
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\QLBH.Business.csproj.AssemblyReference.cache
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\QLBH.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\QLBH.Business.AssemblyInfoInputs.cache
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\QLBH.Business.AssemblyInfo.cs
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\QLBH.Business.csproj.CoreCompileInputs.cache
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\QLBH.Bus.5B10227B.Up2Date
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\QLBH.Business.dll
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\refint\QLBH.Business.dll
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\QLBH.Business.pdb
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\QLBH.Business\obj\Debug\net8.0\ref\QLBH.Business.dll

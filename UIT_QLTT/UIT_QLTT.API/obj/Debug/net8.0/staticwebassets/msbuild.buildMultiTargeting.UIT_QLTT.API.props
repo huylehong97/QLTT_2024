@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UIT_QLTT.API.props" />
+</Project>

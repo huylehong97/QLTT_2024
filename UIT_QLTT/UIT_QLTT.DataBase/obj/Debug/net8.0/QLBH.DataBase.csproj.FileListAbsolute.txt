@@ -1,0 +1,14 @@
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\bin\Debug\net8.0\QLBH.DataBase.deps.json
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\bin\Debug\net8.0\QLBH.DataBase.runtimeconfig.json
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\bin\Debug\net8.0\QLBH.DataBase.dll
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\bin\Debug\net8.0\QLBH.DataBase.pdb
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\QLBH.DataBase.csproj.AssemblyReference.cache
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\QLBH.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\QLBH.DataBase.AssemblyInfoInputs.cache
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\QLBH.DataBase.AssemblyInfo.cs
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\QLBH.DataBase.csproj.CoreCompileInputs.cache
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\QLBH.DataBase.dll
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\refint\QLBH.DataBase.dll
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\QLBH.DataBase.pdb
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\QLBH.DataBase.genruntimeconfig.cache
+E:\UIT_LienThong\Documents\QLTT\DoAn\UIT_QLTT\UIT_QLTT.DataBase\obj\Debug\net8.0\ref\QLBH.DataBase.dll
