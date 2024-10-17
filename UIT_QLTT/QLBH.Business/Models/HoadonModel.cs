@@ -1,8 +1,8 @@
 ﻿namespace QLBH.Business.Models;
 
-public partial class HoadonModel
+public partial class HoadonModel 
 {
-    public int Sohd { get; set; }
+    public int? Sohd { get; set; }
 
     public DateTime? Nghd { get; set; }
 

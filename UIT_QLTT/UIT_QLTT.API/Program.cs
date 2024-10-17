@@ -21,6 +21,7 @@ builder.Services.AddScoped<IHoaDonService, HoaDonService>();
 builder.Services.AddScoped<ICacheService, CacheService>();
 builder.Services.AddScoped<IKhachHang1Repository, KhachHang1Repository>();
 builder.Services.AddScoped<IKhachHangService, KhachHangService>();
+builder.Services.AddScoped<IDbRedisService, DbRedisService>();
 builder.Services.AddMemoryCache();
 
 var app = builder.Build();

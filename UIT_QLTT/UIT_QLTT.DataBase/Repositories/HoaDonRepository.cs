@@ -6,6 +6,7 @@ namespace QLBH.DataBase.Repositories;
 public interface IHoaDonRepository
 {
     Task<List<Hoadon>> GetAsync();
+    IQueryable<Hoadon> GetQuery();
 }
 public class HoaDonRepository : IHoaDonRepository
 {
@@ -24,5 +25,12 @@ public class HoaDonRepository : IHoaDonRepository
     public void Add(Hoadon hoaDon)
     {
         _dbContext.Hoadons.Add(hoaDon);
+    }
+
+    public IQueryable<Hoadon> GetQuery()
+    {
+        IQueryable<Hoadon> queryable = _dbContext.Hoadons;
+
+        return queryable;
     }
 }
